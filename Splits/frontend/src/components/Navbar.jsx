@@ -1,6 +1,6 @@
 
 const Navbar = () => {
-    reutrn (
+    return (
         <div>Navbar</div>
     )
 }
