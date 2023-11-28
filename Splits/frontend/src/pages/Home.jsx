@@ -1,7 +1,11 @@
 import MainPosts from "../components/MainPosts"
+import Footer from '../components/Footer'
+import Navbar from '../components/Navbar'
 
 const Home = () => {
     return (
+        <>
+        <Navbar />
         <div className="px-8 md:px-[200px]">
             <MainPosts />
             <MainPosts />
@@ -9,6 +13,8 @@ const Home = () => {
             <MainPosts />
             <MainPosts />
         </div>
+        <Footer />
+        </>
     )
 }
 
