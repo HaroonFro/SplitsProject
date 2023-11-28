@@ -8,7 +8,7 @@ const MainPosts = () => {
 
         <div className="flex flex-col w-[65%]">
           <h1 className="text-xl font-bold md:mb-2 mb-1 md:text-2xl">
-            3 Uses of Push-Pull-Leg Split
+            3 Uses of Push-Pull-Legs Split
           </h1>
           <div className="flex mb-2 text-sm font-semibold text-grey-500 items-center justify-between md:mb-4">
            <p>@HaroonFrotan</p>
