@@ -3,7 +3,7 @@ const MainPosts = () => {
     return (
         <div className="w-full flex mt-8 space-x-4">
         <div className="w-[35%] h-[200px] flex justify-center items-center">
-        <img src="" alt="" className=""/>
+        <img src="https://i.pinimg.com/550x/ef/bf/70/efbf70dbb1d7c4a86f5928b97b078cba.jpg" alt="" className="h-full w-full object-cover"/>
         </div>
 
         <div className="flex flex-col w-[65%]">
